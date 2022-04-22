@@ -1,6 +1,10 @@
 # sample_project
 A sample project built with Django and Create React App
 
+Nicholas Stanhope/
+250-893-0162/
+nick.stanhope11@gmail.com
+
 ## Instructions
 Clone this repository and implement these features:
 - a `/users/add` api route in the **backend** to add a user to the database
