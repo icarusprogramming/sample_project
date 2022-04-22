@@ -13,6 +13,29 @@
   }
 }
 
+form {
+  padding-top: 1rem;
+}
+
+input {
+  padding: 0.5rem; 
+  margin: 0 0.5rem 0;
+  font-size: 0.95rem;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+  border: 0;
+}
+
+input:focus {
+  border: 0;
+  outline-offset: 2px;
+  outline: solid 2px #b0caff;
+}
+
+input[type="submit"]:hover {
+  background-color: #b0caff;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
